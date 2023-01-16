@@ -1,0 +1,19 @@
+<!--pages/form/form.wxml-->
+<form bindsubmit="formsubmit" class="container">
+  <view>
+      <view class="title" style="margin-bottom: 20rpx;">Submit your story</view>
+      <view style="margin-bottom: 15rpx">
+        <view>Name</view>
+        <input class="input-field" type="text" name="name" placeholder="Enter your name" />
+      </view>
+      <view style="margin-bottom: 15rpx">
+        <view>Text</view>
+        <input class="input-field" type="text" name="text" placeholder="Enter your complaint" />
+      </view>
+      <view style="margin-bottom: 15rpx">
+        <view>Picture</view>
+        <input class="input-field" type="text" name="picture" placeholder="Enter your picture url" />
+      </view>
+  </view>
+  <button form-type="submit" class="btn btn-pri">Submit</button>
+</form>

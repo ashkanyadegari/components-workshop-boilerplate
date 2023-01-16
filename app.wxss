@@ -1,0 +1,19 @@
+/**app.wxss**/
+
+
+.btn {
+  border-radius: 20rpx;
+  padding: 25rpx 60rpx;
+}
+
+.btn-pri {
+  font-weight: bolder;
+  background-color: rgb(50, 0, 167);
+  color: white;
+}
+
+.title {
+  font-weight: 900;
+  font-size: 48rpx;
+  color: rgb(50, 0, 167);
+}

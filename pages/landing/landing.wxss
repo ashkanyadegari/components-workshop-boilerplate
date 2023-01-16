@@ -1,0 +1,27 @@
+/* pages/landing/landing.wxss */
+.container {
+  padding: 40rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 0;
+  height: 100vh;
+  box-sizing: border-box;
+}
+.banner {
+  height: 60vh;
+  width: 100%;
+  background-color: rgba(213, 217, 255, 0.699);
+  border-radius: 30rpx;
+  margin-bottom: 20rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.subtitle {
+  font-weight: lighter;
+  font-size: 32rpx;
+  color: rgb(50, 0, 167);
+}

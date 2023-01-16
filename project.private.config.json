@@ -1,0 +1,36 @@
+{
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "Stories",
+          "pathName": "pages/stories/stories",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/stories/stories",
+          "query": "id=1",
+          "scene": null
+        },
+        {
+          "name": "Show",
+          "pathName": "pages/show/show",
+          "query": "id=1",
+          "scene": null
+        },
+        {
+          "name": "form",
+          "pathName": "pages/form/form",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  },
+  "projectname": "stories-app%202"
+}

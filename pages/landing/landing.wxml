@@ -1,0 +1,12 @@
+<view class="container">
+  <view>
+    <view class="banner">
+     <image src="/images/landing-img.svg" />
+    </view>
+    <view style="text-align: center;">
+      <view class="title">Lockdown Complaints</view>
+      <view class="subtitle">Tell us your lockdown story</view>
+    </view>
+  </view>
+  <button bindtap="goToStories" class="btn btn-pri">Start Complaining</button>
+</view>

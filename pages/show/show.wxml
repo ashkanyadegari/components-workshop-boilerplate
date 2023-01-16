@@ -1,0 +1,6 @@
+<!--pages/show/show.wxml-->
+<view class="container">
+  <image src="{{story.picture}}" class="banner" />
+  <view class="title" style="margin-bottom: 20rpx">{{story.name}}</view>
+  <view class="subtitle" style="margin-bottom: 20rpx">{{story.text}}</view>
+</view>

@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/landing/landing",
+    "pages/stories/stories",
+    "pages/show/show",
+    "pages/form/form"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
